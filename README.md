@@ -24,3 +24,10 @@
 # Avisos
 
 Eu criei este chatbot com o simples intuito de aprender algo novo, não espere nada surpreendente dela, pois eu queria apenas entender os conceitos mais básicos para me aprofundar em outros projetos futuros
+
+
+# Issues
+
+1- Erro na hora de instalar os pacotes do requirements.txt:
+  
+  No meu próprio pc, ao tentar instalar os pacotes deu erro, oque resolveu este problema foi atualizar o pip (como o próprio python alertava ao executar algum comando pip), rodei novamente o comando de instalar os pacotes, e funcionou normalmente
