@@ -5,12 +5,15 @@
 2- Faça o clone do repositório no seu próprio PC
 
 3- Crie sua venv utilizando o python 3.6 com o seguinte comando:
+
   `python -3.6 -m venv venv`
   
 4- Ative sua venv antes de instalar as dependências com o seguinte comando (terminal deve estar com o caminho da pasta do chatbot):
+
   `venv\Scripts\activate.bat`
   
 5- Instale as dependências do requirements.txt com o seguinte comando:
+
   `pip install -r requirements.txt`
   
 6- Após isso, é só rodar o main.py dentro da venv que tudo deve funcionar normalmente:
